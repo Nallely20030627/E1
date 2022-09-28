@@ -9,9 +9,9 @@ int main()
      cout<<"Son iguales"<<endl;
   }else{
      if(h<n){
-       cout<<h<<" es el menor que "<<n<<"\h";
+       cout<<h<<" es el menor que "<<n<<"h";
      }else{
-       cout<<n<<" es el menor que "<<h<<"\n";
+       cout<<n<<" es el menor que "<<h<<"n";
      }
   }
 
